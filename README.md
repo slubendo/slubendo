@@ -19,19 +19,11 @@ I'm a Full Stack Web Developer with a deep passion for problem-solving and creat
 
 ## Techical Skills
 I'm experienced in coding with the following languages and frameworks: 
-Typescript, Javascript, React, Next.js, C#, Express, Node.js, SQL, Drizzle, HTML, CSS and Tailwind
-
-  <br>
-  <div align="center">
-    <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=slubendo&theme=buefy-dark" alt="GitHub Streak" />
-    </a>
-  </div>
-
+\n Typescript, Javascript, React, Next.js, C#, Express, Node.js, SQL, Drizzle, HTML, CSS and Tailwind
 <br>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slubendo&layout=compact&theme=transparent" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slubendo&layout=compact&theme=transparent&hide_progress=true" alt="Top Languages" />
   </a>
 </div>
 
