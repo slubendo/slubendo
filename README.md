@@ -1,4 +1,4 @@
-#### Hi, I'm Stephane Lubendo a Full Stack Web Developer 👨‍💻
+# Hi, I'm Stephane Lubendo a Full Stack Web Developer 👨‍💻
 
 <!--
 **slubendo/slubendo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
