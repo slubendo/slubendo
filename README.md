@@ -1,4 +1,4 @@
-### Hi, I'm Stephane Lubendo a Full Stack Web Developer 👨‍💻
+#### Hi, I'm Stephane Lubendo a Full Stack Web Developer 👨‍💻
 
 <!--
 **slubendo/slubendo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,14 +19,15 @@ I'm a Full Stack Web Developer with a deep passion for problem-solving and creat
 
 ## Techical Skills
 I'm experienced in coding with the following languages and frameworks: 
-\n Typescript, Javascript, React, Next.js, C#, Express, Node.js, SQL, Drizzle, HTML, CSS and Tailwind
+Typescript, Javascript, React, Next.js, C#, Express, Node.js, SQL, Drizzle, HTML, CSS and Tailwind
 <br>
+<!--
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slubendo&layout=compact&theme=transparent&hide_progress=true" alt="Top Languages" />
   </a>
 </div>
-
+-->
 ## Let's Connect
 
 I'm always open to making new connections, especially when it comes to like minded people in tech. You can find me on [LinkedIn](https://www.linkedin.com/in/stephanelubendo/).
