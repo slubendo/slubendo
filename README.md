@@ -19,9 +19,8 @@ I'm a Full Stack Web Developer with a deep passion for problem-solving and creat
 
 ## Techical Skills
 I'm experienced in coding with the following languages and frameworks: 
+<br>
 Typescript, Javascript, React, Next.js, C#, Express, Node.js, SQL, Drizzle, HTML, CSS and Tailwind
-
-
 <br>
 <!--
 <div align="center">
