@@ -42,6 +42,7 @@ I'm experienced in coding with the following languages and frameworks:
   </a>
 </div>
 -->
+
 ## Let's Connect
 
 I'm always open to making new connections, especially when it comes to like minded people in tech. You can find me on [LinkedIn](https://www.linkedin.com/in/stephanelubendo/).
