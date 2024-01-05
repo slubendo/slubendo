@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Full Stack Web Developer with a deep passion for problem-solving and creating tangible results. Currently, I'm improving my skills as a developer at the British Columbia Institute of Technology, where I study Full Stack Web Development. I'm also gaining work experience at my internship with Creative Solutions. My GitHub is a collection of ideas and projects that I have worked on. Some of my favourite projects can be seen below. 
+I'm a passionate Full Stack Web Developer that enjoys creating tangible projects and ideas. I'm currently gaining work experience at my internship with Creative Solutions. I'm also learning more about Full Stack Web Development at BCIT where I study. My GitHub is a collection of ideas and projects that I have worked on. Some of my favourite projects can be seen below. 
 
 ## Techical Skills
 I'm experienced in coding with the following languages and frameworks: 
